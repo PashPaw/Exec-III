@@ -1,6 +1,6 @@
 # Index to Documentation
 
-There are currently three folders and six loose files in this directory.
+There are currently three folders and five loose files in this directory.
 
 ## Folders:
 
@@ -18,4 +18,8 @@ System Manuals
 
 - *Information Storage and Retrival System: A User's Manual*-For the database that was used at MGH
 
-- 
+- "Linking Loader Handwritten Notes"-Needs to be typed for those who cannot read cursive
+
+- "Programming Summary By Barbara Lieb"-Error codes and memory addresses
+  
+  
