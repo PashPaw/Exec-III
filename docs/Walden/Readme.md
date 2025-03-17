@@ -12,7 +12,7 @@ System Manuals
 
 ## Files:
 
-- 'The BBN/MGH "Hosipital Project"'' -A breif overview
+- 'The BBN/MGH "Hosipital Project"'' -A brief overview
 
 - *STRCOMP and ISRCOMP: A User's Manua*l-A user's manual for the JOSS-like language that ran on Exec-III
 
